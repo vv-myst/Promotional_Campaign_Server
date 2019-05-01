@@ -1,0 +1,128 @@
+#%RAML 1.0
+title: "Promotional Campaign"
+description: "No description"
+version: "1.0.0"
+mediaType:
+- "application/json"
+types:
+  Product:
+    type: "object"
+    description: "a new product item"
+    properties:
+      id:
+        type: "string"
+        description: "a unique string id to identify the product item"
+        minLength: 1
+        maxLength: 36
+        example: "445277f3-9552-4a74-bd35-7a7c4c135a47"
+      name:
+        type: "string"
+        description: "the name of the product"
+        minLength: 1
+        maxLength: 256
+        example: "Coca Cola"
+      category:
+        type: "string"
+        description: "the category to which the product belongs"
+        minLength: 1
+        maxLength: 32
+        example: "beverage"
+    example:
+      value: "{\n\"id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\",\n\"name\": \"Coca\
+        \ Cola\",\n\"category\": \"beverage\"\n}"
+      strict: false
+  Campaign:
+    type: "object"
+    description: "a new campaign item"
+    properties:
+      id:
+        type: "string"
+        description: "the unique id to identify the campaign"
+        minLength: 1
+        maxLength: 36
+        example: "71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5"
+      name:
+        type: "string"
+        description: "the name of the campaign"
+        minLength: 1
+        maxLength: 256
+        example: "Coca Cola Christmas Campaign"
+      product:
+        type: "Product"
+        description: "the product item linked to this campaign"
+        example:
+          value: "{\n\"id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\",\n\"name\":\
+            \ \"Coca Cola\",\n\"category\": \"beverage\"\n}"
+          strict: false
+      start:
+        type: "string"
+        description: "the start date of the campaign as a UNIX timestamp"
+        example: "1534345609"
+      end:
+        type: "string"
+        description: "the end date of the campaign as a UNIX timestamp"
+        example: "1565881609"
+      isActive:
+        type: "boolean"
+        description: "tells if the campaign is currently active or not"
+        example: true
+    example:
+      value: "{\n\"id\": \"71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5\",\n\"name\": \"Coca\
+        \ Cola Christmas Campaign\",\n\"product\": {\"id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\"\
+        ,\"name\": \"Coca Cola\",\"category\": \"beverage\"},\n\"start\": \"1534345609\"\
+        , \n\"end\": \"1565881609\", \n\"isActive\": true\n}"
+      strict: false
+/campaigns:
+  get:
+    displayName: "Get all promotional campaigns"
+    description: "show a list of all the available promotional campaigns"
+    queryParameters:
+      page:
+        type: "number"
+        required: false
+        example: 1
+    responses:
+      200:
+        body:
+          application/json:
+            type: "array"
+            uniqueItems: true
+            items:
+              type: "Campaign"
+            example:
+              value: "[\n  {\n\t\"id\": \"71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5\",\n\
+                \t\"name\": \"Coca Cola Christmas Campaign\",\n\t\"product\": {\"\
+                id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\",\"name\": \"Coca Cola\"\
+                ,\"category\": \"beverage\"},\n\t\"start\": \"1534345609\", \n\t\"\
+                end\": \"1565881609\", \n\t\"isActive\": true\n  },\n  {\n\t\"id\"\
+                : \"86782jk-956f-4dbe-bd0c-b627ce0bb6c5\",\n\t\"name\": \"Pepsi Spring\
+                \ Campaign\",\n\t\"product\": {\"id\": \"445ddf98-9552-4a74-bd35-7a7c4c135a47\"\
+                ,\"name\": \"Pepsi\",\"category\": \"beverage\"},\n\t\"start\": \"\
+                1534345609\", \n\t\"end\": \"1565881609\", \n\t\"isActive\": false\n\
+                \  }\n]"
+              strict: false
+      404: {}
+  post:
+    displayName: "Add new campaign"
+    description: "add a new campaign to the list of existing campaigns"
+    body:
+      type: "Campaign"
+      example:
+        value: "{\n\"id\": \"98jh73214-956f-4dbe-bd0c-b627ce0bb6c5\",\n\"name\": \"\
+          Coca Cola Summer Campaign\",\n\"product\": {\"id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\"\
+          ,\"name\": \"Coca Cola\",\"category\": \"beverage\"},\n\"start\": \"1534345609\"\
+          , \n\"end\": \"1565881609\", \n\"isActive\": true\n}"
+        strict: false
+    responses:
+      200:
+        body:
+          type: "Campaign"
+          description: "returns the newly created campaign"
+          example:
+            value: "{\n\"id\": \"98jh73214-956f-4dbe-bd0c-b627ce0bb6c5\",\n\"name\"\
+              : \"Coca Cola Summer Campaign\",\n\"product\": {\"id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\"\
+              ,\"name\": \"Coca Cola\",\"category\": \"beverage\"},\n\"start\": \"\
+              1534345609\", \n\"end\": \"1565881609\", \n\"isActive\": true\n}"
+            strict: false
+      400: {}
+      404: {}

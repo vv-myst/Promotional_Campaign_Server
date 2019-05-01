@@ -1,0 +1,79 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\BILA007\\Desktop\\Dunnhumby\\Homework\\DunnhumbyHomeWork\\ServerSide\\Tests\\Tests.csproj",
+    "projectName": "Tests",
+    "projectPath": "C:\\Users\\BILA007\\Desktop\\Dunnhumby\\Homework\\DunnhumbyHomeWork\\ServerSide\\Tests\\Tests.csproj",
+    "outputPath": "C:\\Users\\BILA007\\Desktop\\Dunnhumby\\Homework\\DunnhumbyHomeWork\\ServerSide\\Tests\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\BILA007\\Desktop\\Dunnhumby\\Homework\\DunnhumbyHomeWork\\ServerSide\\DunnhumbyHomeWork.csproj": {
+            "projectPath": "C:\\Users\\BILA007\\Desktop\\Dunnhumby\\Homework\\DunnhumbyHomeWork\\ServerSide\\DunnhumbyHomeWork.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "AutoFixture.NUnit3": {
+          "target": "Package",
+          "version": "[4.8.0, )"
+        },
+        "Microsoft.AspNetCore.Http.Abstractions": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.InMemory": {
+          "target": "Package",
+          "version": "[2.2.4, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.10.1, )"
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.13.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

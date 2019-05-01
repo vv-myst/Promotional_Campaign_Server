@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Controllers/CampaignController.cs" line="19" mnemonic="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="408f3020-09cb-4751-939e-7648d880f22f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/CampaignController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1092">
+              <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+              <folding>
+                <marker date="1556742473737" expanded="false" signature="0:233" ph="Auto generated information. Please do not modify" />
+                <marker date="1556742473737" expanded="true" signature="58:221" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork CampaignController.cs ... */" />
+                <marker date="1556742473737" expanded="false" signature="241:481" ph="..." />
+                <marker date="1556742473737" expanded="true" signature="522:6723" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="623:6721" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="755:815" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="925:1865" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="951:1704" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="1735:1855" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="1992:2602" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="2018:2441" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="2472:2592" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="2704:3330" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="2730:3169" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="3200:3320" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="3463:4186" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="3489:4025" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="4056:4176" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="4286:5667" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="4312:5506" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="5537:5657" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="5698:5752" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="5820:6208" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="5846:6050" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="6081:6198" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="6289:6715" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="6315:6557" ph="{...}" />
+                <marker date="1556742473737" expanded="true" signature="6588:6705" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/ProductController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+              <folding>
+                <marker date="1556742591826" expanded="false" signature="0:232" ph="Auto generated information. Please do not modify" />
+                <marker date="1556742591826" expanded="true" signature="58:220" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork ProductController.cs ... */" />
+                <marker date="1556742591826" expanded="false" signature="240:428" ph="..." />
+                <marker date="1556742591826" expanded="true" signature="469:3952" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="567:3950" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="698:758" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="883:1564" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="909:1403" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="1434:1554" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="1664:2127" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="1690:1966" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="1997:2117" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="2258:3057" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="2284:2896" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="2927:3047" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="3155:3859" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="3181:3698" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="3729:3849" ph="{...}" />
+                <marker date="1556742591826" expanded="true" signature="3890:3944" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DunnhumbyHomeWork.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/CampaignControllerTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4125">
+              <caret line="302" column="28" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="28" />
+              <folding>
+                <marker date="1556739284122" expanded="false" signature="0:226" ph="Auto generated information. Please do not modify" />
+                <marker date="1556739284122" expanded="true" signature="58:214" ph="/* DunnhumbyHomeWork Tests CampaignControllerTests.cs ... */" />
+                <marker date="1556739284122" expanded="false" signature="234:624" ph="..." />
+                <marker date="1556739284122" expanded="true" signature="641:16344" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="702:16342" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="751:1528" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="859:1022" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="1083:1376" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="1578:1685" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="1754:2236" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="2292:2566" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="2885:3081" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="3192:3749" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="3268:3553" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="3874:4671" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="4009:4117" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="4185:4475" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="4763:5434" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="5502:6572" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="6646:7841" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="7925:8158" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="8241:8512" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="8591:10938" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="11027:13909" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="14000:14472" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="14540:16336" ph="{...}" />
+                <marker date="1556739284122" expanded="true" signature="14944:15230" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <marker date="1556739793626" expanded="false" signature="0:222" ph="Auto generated information. Please do not modify" />
+                <marker date="1556739793626" expanded="true" signature="58:210" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork Program.cs ... */" />
+                <marker date="1556739793626" expanded="false" signature="230:287" ph="..." />
+                <marker date="1556739793626" expanded="true" signature="316:690" ph="{...}" />
+                <marker date="1556739793626" expanded="true" signature="343:688" ph="{...}" />
+                <marker date="1556739793626" expanded="true" signature="396:470" ph="{...}" />
+                <marker date="1556739793626" expanded="true" signature="545:682" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/ExtensionTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="79" column="42" lean-forward="true" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+              <folding>
+                <marker date="1556741893626" expanded="false" signature="0:217" ph="Auto generated information. Please do not modify" />
+                <marker date="1556741893626" expanded="true" signature="58:205" ph="/* DunnhumbyHomeWork Tests ExtensionTests.cs ... */" />
+                <marker date="1556741893626" expanded="false" signature="225:442" ph="..." />
+                <marker date="1556741893626" expanded="true" signature="459:9127" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="511:9125" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="561:2435" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="822:1206" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="1264:1809" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="1868:2018" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="2079:2424" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="2837:3076" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="3446:3874" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="4033:4175" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="4253:5326" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="5418:5786" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="5859:6603" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="6688:7637" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="7713:8553" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="8624:9119" ph="{...}" />
+                <marker date="1556741893626" expanded="true" signature="8695:8845" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/Extensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+              <folding>
+                <marker date="1556719208521" expanded="false" signature="0:225" ph="Auto generated information. Please do not modify" />
+                <marker date="1556719208521" expanded="true" signature="58:213" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork Extensions.cs ... */" />
+                <marker date="1556719208521" expanded="false" signature="233:427" ph="..." />
+                <marker date="1556719208521" expanded="true" signature="508:4838" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="545:4836" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="560:801" ph="///     Transform a collection of campaign objects from database object to a ... " />
+                <marker date="1556719208521" expanded="true" signature="926:1108" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="1118:1319" ph="///     Transform a campaign from a database object to a data transfer object ... " />
+                <marker date="1556719208521" expanded="true" signature="1397:1888" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="1466:1844" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="1898:2097" ph="///     Transform a product from a database object to a data transfer object ... " />
+                <marker date="1556719208521" expanded="true" signature="2171:2387" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="2238:2344" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="2484:2643" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="2653:2852" ph="///     Transform a product from a data transfer object to a database object ... " />
+                <marker date="1556719208521" expanded="true" signature="2926:3171" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="2990:3128" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="3181:3383" ph="///     Transform a campaign from a data transfer object to a database object  ... " />
+                <marker date="1556719208521" expanded="true" signature="3461:4264" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="3953:4220" ph="{...}" />
+                <marker date="1556719208521" expanded="true" signature="4365:4830" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DTOModel/ProductDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DTOModel/CampaignDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96516740-F231-4AF4-8B28-D5821CA2F6F7/be/be7e6a6f/Expression.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/Interfaces/IProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DbModel/Campaign.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DbModel/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/49/f52b73a3/DbContextOptionsBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f6/5dc6f78b/DbContextOptionsBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/CampaignControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5322196E-EC4D-4A49-A05F-63EFDE8F0BE4/8a/8886ea9b/Thread.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/4530d6dba175fae6ff8f8ade6c07fd05e6c1c7c5/src/NUnitFramework/framework/Internal/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PRManagementDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/CampaignController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/Interfaces/ICampaignController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/ProductControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/ExtensionTests.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PrManagementDbContext.cs" />
+        <option value="$PROJECT_DIR$/DTOModel/ProductDTO.cs" />
+        <option value="$PROJECT_DIR$/DTOModel/CampaignDTO.cs" />
+        <option value="$PROJECT_DIR$/DbModel/Campaign.cs" />
+        <option value="$PROJECT_DIR$/DbModel/Product.cs" />
+        <option value="$PROJECT_DIR$/Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Tests/CampaignTests.cs" />
+        <option value="$PROJECT_DIR$/PRManagementDbContext.cs" />
+        <option value="$PROJECT_DIR$/Tests/MockPrManagementDbContext.cs" />
+        <option value="$PROJECT_DIR$/Controllers/Extensions.cs" />
+        <option value="$PROJECT_DIR$/Controllers/IProductController.cs" />
+        <option value="$PROJECT_DIR$/Controllers/ICampaignController.cs" />
+        <option value="$PROJECT_DIR$/Tests/CampaignControllerTests.cs" />
+        <option value="$PROJECT_DIR$/Tests/ProductControllerTests.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/Controllers/Interfaces/ICampaignController.cs" />
+        <option value="$PROJECT_DIR$/Controllers/Interfaces/IProductController.cs" />
+        <option value="$PROJECT_DIR$/Tests/ExtensionTests.cs" />
+        <option value="$PROJECT_DIR$/Controllers/CampaignController.cs" />
+        <option value="$PROJECT_DIR$/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/Test.http" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1974" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DunnhumbyHomeWork" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DunnhumbyHomeWork" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DunnhumbyHomeWork" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DunnhumbyHomeWork" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.DunnhumbyHomeWork">
+    <configuration name="DunnhumbyHomeWork" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/DunnhumbyHomeWork.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Development" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="408f3020-09cb-4751-939e-7648d880f22f" name="Default Changelist" comment="" />
+      <created>1556472873626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556472873626</updated>
+      <workItem from="1556472876657" duration="12878000" />
+      <workItem from="1556546208930" duration="981000" />
+      <workItem from="1556700972373" duration="22017000" />
+      <workItem from="1556740016809" duration="3237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39113000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1974" y="-8" width="1874" height="1092" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16923925" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49889746" weight="0.33055267" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.9310915" weight="0.39937434" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32846716" />
+      <window_info anchor="bottom" id="REST Client" order="8" weight="0.32917964" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5011025" side_tool="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="NuGet" order="13" sideWeight="0.49944875" visible="true" weight="0.32846716" />
+      <window_info anchor="bottom" id="Change Signature" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="15" sideWeight="0.49889746" weight="0.24817519" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Controllers/CampaignController.cs</url>
+          <line>36</line>
+          <properties documentPath="$PROJECT_DIR$/Controllers/CampaignController.cs" initialLine="35">
+            <startOffsets>
+              <option value="982" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1009" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Controllers/CampaignController.cs</url>
+          <line>132</line>
+          <properties documentPath="$PROJECT_DIR$/Controllers/CampaignController.cs" initialLine="135">
+            <startOffsets>
+              <option value="4343" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4544" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Controllers/ProductController.cs</url>
+          <line>58</line>
+          <properties documentPath="$PROJECT_DIR$/Controllers/ProductController.cs" initialLine="58">
+            <startOffsets>
+              <option value="1721" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1765" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Controllers/CampaignController.cs</url>
+          <line>64</line>
+          <properties documentPath="$PROJECT_DIR$/Controllers/CampaignController.cs" initialLine="64">
+            <startOffsets>
+              <option value="2049" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2218" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DTOModel/ProductDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" selection-start-line="19" selection-start-column="7" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1556483154162" expanded="true" signature="6:67" ph="..." />
+            <marker date="1556483154162" expanded="true" signature="105:532" ph="{...}" />
+            <marker date="1556483154162" expanded="true" signature="135:530" ph="{...}" />
+            <marker date="1556483154162" expanded="true" signature="450:524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DbModel/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <marker date="1556543777879" expanded="true" signature="6:110" ph="..." />
+            <marker date="1556543777879" expanded="true" signature="147:1505" ph="{...}" />
+            <marker date="1556543777879" expanded="true" signature="222:1503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/dotnet/sdk/2.1.302/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-521">
+          <caret line="2105" column="4" selection-start-line="2105" selection-start-column="4" selection-end-line="2105" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/MockPrManagementDbContext.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96516740-F231-4AF4-8B28-D5821CA2F6F7/be/be7e6a6f/Expression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="4116" column="6" selection-start-line="4116" selection-start-column="6" selection-end-line="4116" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/4530d6dba175fae6ff8f8ade6c07fd05e6c1c7c5/src/NUnitFramework/framework/Internal/Reflect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="269" column="20" selection-start-line="269" selection-start-column="20" selection-end-line="269" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/49/f52b73a3/DbContextOptionsBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f6/5dc6f78b/DbContextOptionsBuilder`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PRManagementDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+          <folding>
+            <marker date="1556708073109" expanded="false" signature="0:236" ph="Auto generated information. Please do not modify" />
+            <marker date="1556708073109" expanded="true" signature="58:224" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork PRManagementDbContext.cs ... */" />
+            <marker date="1556708073109" expanded="false" signature="244:307" ph="..." />
+            <marker date="1556708073109" expanded="true" signature="336:686" ph="{...}" />
+            <marker date="1556708073109" expanded="true" signature="389:684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ProductControllerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="176" column="45" selection-start-line="176" selection-start-column="45" selection-end-line="176" selection-end-column="45" />
+          <folding>
+            <marker date="1556739693345" expanded="false" signature="0:225" ph="Auto generated information. Please do not modify" />
+            <marker date="1556739693345" expanded="true" signature="58:213" ph="/* DunnhumbyHomeWork Tests ProductControllerTests.cs ... */" />
+            <marker date="1556739693345" expanded="true" signature="233:559" ph="..." />
+            <marker date="1556739693345" expanded="true" signature="576:6791" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="636:6789" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="685:1106" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="793:956" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="1156:1262" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="1489:1970" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="2048:3295" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="3370:3982" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="4102:4405" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="4493:4772" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="4850:5312" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="5456:5733" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="5800:6783" ph="{...}" />
+            <marker date="1556739693345" expanded="true" signature="5974:6130" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/CampaignControllerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4125">
+          <caret line="302" column="28" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="28" />
+          <folding>
+            <marker date="1556739284122" expanded="false" signature="0:226" ph="Auto generated information. Please do not modify" />
+            <marker date="1556739284122" expanded="true" signature="58:214" ph="/* DunnhumbyHomeWork Tests CampaignControllerTests.cs ... */" />
+            <marker date="1556739284122" expanded="false" signature="234:624" ph="..." />
+            <marker date="1556739284122" expanded="true" signature="641:16344" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="702:16342" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="751:1528" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="859:1022" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="1083:1376" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="1578:1685" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="1754:2236" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="2292:2566" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="2885:3081" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="3192:3749" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="3268:3553" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="3874:4671" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="4009:4117" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="4185:4475" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="4763:5434" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="5502:6572" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="6646:7841" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="7925:8158" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="8241:8512" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="8591:10938" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="11027:13909" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="14000:14472" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="14540:16336" ph="{...}" />
+            <marker date="1556739284122" expanded="true" signature="14944:15230" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding>
+            <marker date="1556740005804" expanded="false" signature="0:222" ph="Auto generated information. Please do not modify" />
+            <marker date="1556740005804" expanded="true" signature="58:210" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork Startup.cs ... */" />
+            <marker date="1556740005804" expanded="false" signature="230:422" ph="..." />
+            <marker date="1556740005804" expanded="true" signature="451:1409" ph="{...}" />
+            <marker date="1556740005804" expanded="true" signature="478:1407" ph="{...}" />
+            <marker date="1556740005804" expanded="true" signature="537:600" ph="{...}" />
+            <marker date="1556740005804" expanded="true" signature="823:994" ph="{...}" />
+            <marker date="1556740005804" expanded="true" signature="1182:1401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <marker date="1556739793626" expanded="false" signature="0:222" ph="Auto generated information. Please do not modify" />
+            <marker date="1556739793626" expanded="true" signature="58:210" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork Program.cs ... */" />
+            <marker date="1556739793626" expanded="false" signature="230:287" ph="..." />
+            <marker date="1556739793626" expanded="true" signature="316:690" ph="{...}" />
+            <marker date="1556739793626" expanded="true" signature="343:688" ph="{...}" />
+            <marker date="1556739793626" expanded="true" signature="396:470" ph="{...}" />
+            <marker date="1556739793626" expanded="true" signature="545:682" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/Interfaces/IProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <marker date="1556741391178" expanded="false" signature="0:233" ph="Auto generated information. Please do not modify" />
+            <marker date="1556741391178" expanded="true" signature="58:221" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork IProductController.cs ... */" />
+            <marker date="1556741391178" expanded="false" signature="241:330" ph="..." />
+            <marker date="1556741391178" expanded="true" signature="382:1715" ph="{...}" />
+            <marker date="1556741391178" expanded="true" signature="424:1713" ph="{...}" />
+            <marker date="1556741391178" expanded="true" signature="439:695" ph="///     Get an existing product ... " />
+            <marker date="1556741391178" expanded="true" signature="756:1007" ph="///     Create a new product ... " />
+            <marker date="1556741391178" expanded="true" signature="1074:1330" ph="///     Delete an existing product ... " />
+            <marker date="1556741391178" expanded="true" signature="1394:1651" ph="///     Update an existing product ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/Interfaces/ICampaignController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <marker date="1556741376772" expanded="false" signature="0:234" ph="Auto generated information. Please do not modify" />
+            <marker date="1556741376772" expanded="true" signature="58:222" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork ICampaignController.cs ... */" />
+            <marker date="1556741376772" expanded="false" signature="242:331" ph="..." />
+            <marker date="1556741376772" expanded="true" signature="383:2026" ph="{...}" />
+            <marker date="1556741376772" expanded="true" signature="426:2024" ph="{...}" />
+            <marker date="1556741376772" expanded="true" signature="441:692" ph="///     Get all existing campaigns ... " />
+            <marker date="1556741376772" expanded="true" signature="746:998" ph="///     Get a single campaign ... " />
+            <marker date="1556741376772" expanded="true" signature="1060:1308" ph="///     Add new campaign ... " />
+            <marker date="1556741376772" expanded="true" signature="1377:1635" ph="///     Delete an existing campaign ... " />
+            <marker date="1556741376772" expanded="true" signature="1700:1960" ph="///     Update an exisiting campaign ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ExtensionTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="79" column="42" lean-forward="true" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+          <folding>
+            <marker date="1556741893626" expanded="false" signature="0:217" ph="Auto generated information. Please do not modify" />
+            <marker date="1556741893626" expanded="true" signature="58:205" ph="/* DunnhumbyHomeWork Tests ExtensionTests.cs ... */" />
+            <marker date="1556741893626" expanded="false" signature="225:442" ph="..." />
+            <marker date="1556741893626" expanded="true" signature="459:9127" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="511:9125" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="561:2435" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="822:1206" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="1264:1809" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="1868:2018" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="2079:2424" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="2837:3076" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="3446:3874" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="4033:4175" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="4253:5326" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="5418:5786" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="5859:6603" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="6688:7637" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="7713:8553" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="8624:9119" ph="{...}" />
+            <marker date="1556741893626" expanded="true" signature="8695:8845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5322196E-EC4D-4A49-A05F-63EFDE8F0BE4/8a/8886ea9b/Thread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="162" column="8" selection-start-line="162" selection-start-column="8" selection-end-line="162" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DbModel/Campaign.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+          <folding>
+            <marker date="1556485268096" expanded="false" signature="6:110" ph="..." />
+            <marker date="1556485268096" expanded="true" signature="147:1991" ph="{...}" />
+            <marker date="1556485268096" expanded="true" signature="224:1989" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DTOModel/CampaignDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <marker date="1556485168995" expanded="false" signature="0:226" ph="Auto generated information. Please do not modify" />
+            <marker date="1556485168995" expanded="true" signature="58:214" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork CampaignDTO.cs ... */" />
+            <marker date="1556485168995" expanded="false" signature="234:295" ph="..." />
+            <marker date="1556485168995" expanded="true" signature="333:930" ph="{...}" />
+            <marker date="1556485168995" expanded="true" signature="364:928" ph="{...}" />
+            <marker date="1556485168995" expanded="true" signature="848:922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <marker date="1556719208521" expanded="false" signature="0:225" ph="Auto generated information. Please do not modify" />
+            <marker date="1556719208521" expanded="true" signature="58:213" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork Extensions.cs ... */" />
+            <marker date="1556719208521" expanded="false" signature="233:427" ph="..." />
+            <marker date="1556719208521" expanded="true" signature="508:4838" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="545:4836" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="560:801" ph="///     Transform a collection of campaign objects from database object to a ... " />
+            <marker date="1556719208521" expanded="true" signature="926:1108" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="1118:1319" ph="///     Transform a campaign from a database object to a data transfer object ... " />
+            <marker date="1556719208521" expanded="true" signature="1397:1888" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="1466:1844" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="1898:2097" ph="///     Transform a product from a database object to a data transfer object ... " />
+            <marker date="1556719208521" expanded="true" signature="2171:2387" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="2238:2344" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="2484:2643" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="2653:2852" ph="///     Transform a product from a data transfer object to a database object ... " />
+            <marker date="1556719208521" expanded="true" signature="2926:3171" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="2990:3128" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="3181:3383" ph="///     Transform a campaign from a data transfer object to a database object  ... " />
+            <marker date="1556719208521" expanded="true" signature="3461:4264" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="3953:4220" ph="{...}" />
+            <marker date="1556719208521" expanded="true" signature="4365:4830" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/CampaignController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1092">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+          <folding>
+            <marker date="1556742473737" expanded="false" signature="0:233" ph="Auto generated information. Please do not modify" />
+            <marker date="1556742473737" expanded="true" signature="58:221" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork CampaignController.cs ... */" />
+            <marker date="1556742473737" expanded="false" signature="241:481" ph="..." />
+            <marker date="1556742473737" expanded="true" signature="522:6723" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="623:6721" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="755:815" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="925:1865" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="951:1704" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="1735:1855" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="1992:2602" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="2018:2441" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="2472:2592" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="2704:3330" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="2730:3169" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="3200:3320" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="3463:4186" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="3489:4025" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="4056:4176" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="4286:5667" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="4312:5506" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="5537:5657" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="5698:5752" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="5820:6208" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="5846:6050" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="6081:6198" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="6289:6715" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="6315:6557" ph="{...}" />
+            <marker date="1556742473737" expanded="true" signature="6588:6705" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/ProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <marker date="1556742591826" expanded="false" signature="0:232" ph="Auto generated information. Please do not modify" />
+            <marker date="1556742591826" expanded="true" signature="58:220" ph="/* DunnhumbyHomeWork DunnhumbyHomeWork ProductController.cs ... */" />
+            <marker date="1556742591826" expanded="false" signature="240:428" ph="..." />
+            <marker date="1556742591826" expanded="true" signature="469:3952" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="567:3950" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="698:758" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="883:1564" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="909:1403" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="1434:1554" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="1664:2127" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="1690:1966" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="1997:2117" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="2258:3057" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="2284:2896" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="2927:3047" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="3155:3859" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="3181:3698" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="3729:3849" ph="{...}" />
+            <marker date="1556742591826" expanded="true" signature="3890:3944" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DunnhumbyHomeWork.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
