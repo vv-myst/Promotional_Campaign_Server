@@ -12,6 +12,8 @@
     <e p="C:\Users\BILA007\.Rider2018.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\BILA007\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_DunnhumbyHomeWork.1286844368.00" t="ExcludeRecursive" />
     <e p="C:\Users\BILA007\Desktop\Dunnhumby\Homework\DunnhumbyHomeWork\ServerSide" t="IncludeRecursive">
+      <e p=".gitattributes" t="Include" />
+      <e p=".gitignore" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
