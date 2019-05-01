@@ -1,0 +1,122 @@
+{
+	"info": {
+		"_postman_id": "14bce969-9a0e-4040-a090-3b36dfd20f7e",
+		"name": "Campaign",
+		"description": "A collection of all REST API calls for Campaign",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create new campaign",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"id\": \"71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5\",\r\n\t\"name\": \"Coca Cola Christmas Campaign\",\r\n\t\"product\": {\"id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\",\"name\": \"Coca Cola\",\"category\": \"beverage\"},\r\n\t\"startdate\": \"1556741756\", \r\n\t\"enddate\": \"1569924920\", \r\n\t\"isActive\": true\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/campaign",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"campaign"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get existing campaign",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/campaign/71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"campaign",
+						"71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update existing  campaign",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"id\": \"71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5\",\r\n\t\"name\": \"Coca Cola Summer Campaign\",\r\n\t\"product\": {\"id\": \"445277f3-9552-4a74-bd35-7a7c4c135a47\",\"name\": \"Coca Cola\",\"category\": \"beverage\"},\r\n\t\"startdate\": \"1556741756\", \r\n\t\"enddate\": \"1565864120\", \r\n\t\"isActive\": false\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/campaign",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"campaign"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete existing campaign",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/campaign/71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"campaign",
+						"71b35f7e-956f-4dbe-bd0c-b627ce0bb6c5"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

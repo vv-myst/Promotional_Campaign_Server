@@ -4,7 +4,7 @@ Details about the API Definition, Code and the Test Suite
 Github Code Repository:
 ---------------------------------------------------------------------------------
 
-1. Web API Server Side: https://github.com/vv-myst/
+1. Web API Server Side: https://github.com/vv-myst/Promotional_Campaign_ServerSide
 
 
 
@@ -14,6 +14,7 @@ API Definition:
 
 1. Designed in: [Restlet Studio](https://studio.restlet.com/)
 2. Language: [RAML](https://raml.org/)
+3. Web Api Documentation: https://promotionalcampaign.restlet.io/
 
 
 
@@ -37,3 +38,4 @@ API Testing:
 ---------------------------------------------------------------------------------
 
 1. Testing Tool: [Postman v7.0.7](https://www.getpostman.com/)
+2. Postman Test Suite in Json: 
