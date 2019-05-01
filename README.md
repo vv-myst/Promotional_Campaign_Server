@@ -14,7 +14,7 @@ API Definition:
 
 1. Designed in: [Restlet Studio](https://studio.restlet.com/)
 2. Language: [RAML](https://raml.org/)
-3. Web Api Documentation: https://promotionalcampaign.restlet.io/
+3. Web Api Documentation: [DunnHumby Homework](https://promotionalcampaign.restlet.io/)
 
 
 
@@ -38,4 +38,4 @@ API Testing:
 ---------------------------------------------------------------------------------
 
 1. Testing Tool: [Postman v7.0.7](https://www.getpostman.com/)
-2. Postman Test Suite in Json: 
+2. Postman Test Suite in Json: [Campaign and Product Tests](https://github.com/vv-myst/Promotional_Campaign_ServerSide/tree/master/PostmanTestSuite)
