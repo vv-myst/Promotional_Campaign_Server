@@ -1,8 +1,11 @@
-
-.idea/.idea.DunnhumbyHomeWork/.idea/workspace.xml
 *.pdb
 *.dll
 *.user
 *.cache
 *.tmp
 *.pdb
+bin/
+obj/
+.idea/
+/Tests/bin/*
+/Tests/obj/*
