@@ -1,12 +1,3 @@
-#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork DunnhumbyHomeWork CampaignController.cs
-// bila007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-05-01 22:27
-// 2019-04-28 22:35
-
-#endregion
-
 using System;
 using System.Linq;
 using System.Threading.Tasks;

@@ -1,12 +1,3 @@
-#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork Tests ExtensionTests.cs
-// bila007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-05-01 16:11
-// 2019-05-01 13:08
-
-#endregion
-
 using System;
 using System.Collections.Generic;
 using System.Linq;

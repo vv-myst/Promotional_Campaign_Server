@@ -1,12 +1,3 @@
-#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork DunnhumbyHomeWork CampaignDTO.cs
-// BILA007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-04-28 22:25
-// 2019-04-28 21:30
-
-#endregion
-
 using System.ComponentModel.DataAnnotations;
 using Newtonsoft.Json;
 

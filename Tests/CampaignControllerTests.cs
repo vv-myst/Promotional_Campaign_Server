@@ -1,12 +1,3 @@
-#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork Tests CampaignControllerTests.cs
-// bila007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-05-01 21:34
-// 2019-04-29 15:36
-
-#endregion
-
 using System;
 using System.Collections.Generic;
 using System.Net;
@@ -29,7 +20,7 @@ namespace Tests
         [SetUp]
         public void Init()
         {
-            var fixture = new Fixture();
+            fixture = new Fixture();
             mockProductDto = new ProductDTO
             {
                 Id = fixture.Create<string>(),
@@ -82,6 +73,7 @@ namespace Tests
         private CampaignDTO mockCampaignDto;
         private CampaignController campaignController;
         private PRManagementDbContext prManagementDbContext;
+        private Fixture fixture;
 
         [TestCase("dummyId")]
         public async Task Delete_NoCampaignExists_ReturnsStatus400(string inputId)
@@ -195,6 +187,65 @@ namespace Tests
             Assert.That(actualCampaign.StartDate, Is.EqualTo(mockCampaignDto.StartDate));
             Assert.That(actualCampaign.EndDate, Is.EqualTo(mockCampaignDto.EndDate));
             Assert.That(actualCampaign.IsActive, Is.EqualTo(mockCampaignDto.IsActive));
+        }
+
+        [TestCase(1, 10)]
+        [TestCase(2, 10)]
+        [TestCase(3, 2)]
+        public async Task Get_Pagination_GetsAllCampaignsInAPage(int pageNumber, int expectedResult)
+        {
+            // Add new campaigns to the database
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+            await campaignController.Post(GetNewCampaign());
+
+            var sut = (ObjectResult) await campaignController.Get(pageNumber);
+            var campaignList = sut.Value as IList<CampaignDTO>;
+
+            Assert.That(sut.StatusCode, Is.EqualTo((int) HttpStatusCode.OK));
+            Assert.That(campaignList, Is.Not.Null);
+            Assert.That(campaignList.Count, Is.EqualTo(expectedResult));
+        }
+
+        private CampaignDTO GetNewCampaign()
+        {
+            var newDtoProduct = new ProductDTO
+            {
+                Id = fixture.Create<string>(),
+                Name = fixture.Create<string>(),
+                Category = fixture.Create<string>()
+            };
+            
+            var newDtoCampaign = new CampaignDTO
+            {
+                Id = fixture.Create<string>(),
+                Name = fixture.Create<string>(),
+                Product = newDtoProduct,
+                StartDate = GetUnixDate(-30),
+                EndDate = GetUnixDate(-10),
+                IsActive = fixture.Create<bool>()
+            };
+
+            return newDtoCampaign;
         }
 
         [Test]

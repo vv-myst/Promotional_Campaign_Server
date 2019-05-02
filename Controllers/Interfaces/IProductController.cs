@@ -1,12 +1,3 @@
-#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork DunnhumbyHomeWork IProductController.cs
-// bila007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-05-01 22:09
-// 2019-05-01 19:52
-
-#endregion
-
 using System.Threading.Tasks;
 using DunnhumbyHomeWork.DTOModel;
 using Microsoft.AspNetCore.Mvc;

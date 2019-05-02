@@ -22,7 +22,7 @@ namespace DunnhumbyHomeWork.DbModel
         [StringLength(32)]
         [Required]
         public string Category { get; set; }
-        
+
         [Column("LastUpdate", TypeName = "datetime")]
         [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         [Required]

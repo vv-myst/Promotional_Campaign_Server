@@ -1,13 +1,4 @@
-﻿#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork DunnhumbyHomeWork Startup.cs
-// BILA007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-04-29 15:34
-// 2019-04-28 19:34
-
-#endregion
-
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;

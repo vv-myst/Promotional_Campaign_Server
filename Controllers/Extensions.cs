@@ -1,12 +1,3 @@
-#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork DunnhumbyHomeWork Extensions.cs
-// BILA007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-04-28 23:41
-// 2019-04-28 22:56
-
-#endregion
-
 using System;
 using System.Collections.Generic;
 using System.Globalization;

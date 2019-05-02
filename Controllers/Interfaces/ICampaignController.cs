@@ -1,12 +1,3 @@
-#region Auto generated information. Please do not modify
-
-// DunnhumbyHomeWork DunnhumbyHomeWork ICampaignController.cs
-// bila007 Bilangi, Vivek-Vardhan, IT Collection International
-// 2019-05-01 22:09
-// 2019-04-28 22:26
-
-#endregion
-
 using System.Threading.Tasks;
 using DunnhumbyHomeWork.DTOModel;
 using Microsoft.AspNetCore.Mvc;
